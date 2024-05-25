@@ -72,5 +72,5 @@ if result_1 and result_2 and result_3:
     message = f"👀 Примеры использования:\n    1. {command_1}\n        🔍 Результат: {result_1}\n    2. {command_2}\n        🔍 Результат: {result_2}\n    3. {command_3}\n        🔍 Результат: {result_3}\nСоздатель: {author}\nОписание: {module_description}"
     print(message)
     
-    download_link = ""
+    download_link = "https://github.com/Hugensy/calculain/blob/main/cacl.py"
     print(f"💾 Скачать модуль: {download_link}")
